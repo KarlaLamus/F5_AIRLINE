@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'f5airlinesatisfaction'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD3D3BD499FD41CC8A726F7D19CFC44A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D61430F5BD064EDE9F1BDDF07437752F }}
